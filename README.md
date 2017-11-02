@@ -1,5 +1,1 @@
-"# Queue" 
-"# Queue" 
-"# Queue" 
-# Queue
-# Queue
+My first data structure made on python
