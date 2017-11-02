@@ -1,1 +1,1 @@
-My first data structure made on python
+This repository contain all my data structures studies codes
